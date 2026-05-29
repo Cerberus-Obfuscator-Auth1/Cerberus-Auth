@@ -335,4 +335,4 @@ app.post('/notificar-donos', async (req, res) => {
   }
 })
 
-server.listen(process.env.PORT || 80, '0.0.0.0', () => console.log('GG PORRAAAAAAA'))
+server.listen(process.env.PORT || 80, '0.0.0.0', () => console.log('backiendi rodamdu garaiukkkk'))
